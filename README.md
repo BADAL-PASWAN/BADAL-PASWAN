@@ -1,7 +1,7 @@
 ![logo](https://github.com/BADAL-PASWAN/BADAL-PASWAN/blob/main/BadalPaswan.png)
 <h1 align="center">Hi 👋, This is Badal Paswan</h1>
 <h3 align="center">I am passionate Working on my developer career.</h3>
-<img align="right" alt="Coding" width="400" src"https://github.com/BADAL-PASWAN/BADAL-PASWAN/blob/main/new.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/BADAL-PASWAN/BADAL-PASWAN/blob/main/new.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badal-paswan&label=Profile%20views&color=0e75b6&style=flat" alt="badal-paswan" /> </p>
 
