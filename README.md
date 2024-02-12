@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badal-paswan&label=Profile%20views&color=0e75b6&style=flat" alt="badal-paswan" /> </p>
 
-- ⚡ Fun fact **I am funny 😅**
+- ⚡ Fun fact **I am funny 😅***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
